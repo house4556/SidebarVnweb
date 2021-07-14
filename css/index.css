@@ -529,6 +529,9 @@ footer.footer {
     .section__title {
         font-size: var(--font-semi-bold);
     }
+    .aside__items {
+        margin-top: 2rem;
+    }
     .aside__container {
         grid-template-columns: repeat(2, 4fr);
     }
