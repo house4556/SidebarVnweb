@@ -523,7 +523,6 @@ footer.footer {
     .nav__name {
         font-size: .5rem;
     }
-    
     section.section {
         height: 300px;
     }
@@ -535,6 +534,15 @@ footer.footer {
     }
     .aside__subtitle {
         font-size: var(--font-semi-bold);
+    }
+    .advertise__items {
+        height: 200px;
+    }
+    .advertise__link {
+        height: 200px;
+    }
+    .advertise img {
+        height: 200px;
     }
     .footer__name {
         font-size: .8rem;
